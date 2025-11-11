@@ -11,7 +11,7 @@ body {
    margin-right: auto;
    max-width: 40%;
    padding: 1px 1px 1px 8px;
-   background-color: darkred;
+   background-color: rgb(134, 5, 5);
    border-color: azure;
    margin-top: 10px;
 }
@@ -22,5 +22,7 @@ body {
    border-style: solid;
    margin-left: auto;
    margin-right: auto;
-   max-width: 20%;
+   max-width: 30%;
+   background-color: rgb(134, 5, 5);
+   border-color: azure;
 }
