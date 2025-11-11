@@ -1,5 +1,5 @@
 body {
-   background-color: bisque;
+   background-color: #ffe4c4;
    color: azure;
    font-family: 'Times New Roman', Times, serif;
 }
@@ -7,12 +7,12 @@ body {
    text-align: left;
    border-radius: 20px;
    border-style: solid;
-   margin-left: auto;
+   margin-left: left;
    margin-right: auto;
    max-width: 40%;
    padding: 1px 1px 1px 8px;
-   background-color: black;
-   border-color: red;
+   background-color: darkred;
+   border-color: azure;
    margin-top: 10px;
 }
 
