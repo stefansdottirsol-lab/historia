@@ -3,7 +3,7 @@ body {
    color: azure;
    font-family: 'Times New Roman', Times, serif;
 }
-.paragraf1, .paragraf2, .paragraf3 {
+.paragraf1, .paragraf3 {
    text-align: left;
    border-radius: 20px;
    border-style: solid;
@@ -15,7 +15,18 @@ body {
    border-color: azure;
    margin-top: 10px;
 }
-
+.paragraf2, .paragraf4 {
+   text-align: left;
+   border-radius: 20px;
+   border-style: solid;
+   margin-left: left;
+   margin-right: 10px;
+   max-width: 40%;
+   padding: 1px 1px 1px 8px;
+   background-color: rgb(134, 5, 5);
+   border-color: azure;
+   margin-top: 10px;
+}
 .titel {
    text-align: center;
    border-radius: 20px;
