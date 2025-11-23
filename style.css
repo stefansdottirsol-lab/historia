@@ -1,9 +1,9 @@
 body {
-   background-color: #ffe4c4;
-   color: azure;
+   background-color:  rgb(134, 5, 5);
+   color: rgb(134, 5, 5);
    font-family: 'Times New Roman', Times, serif;
 }
-.paragraf1, .paragraf3 {
+.paragraf1, .paragraf3, .källa {
    text-align: left;
    border-radius: 20px;
    border-style: solid;
@@ -11,7 +11,7 @@ body {
    margin-right: auto;
    max-width: 40%;
    padding: 1px 1px 1px 8px;
-   background-color: rgb(134, 5, 5);
+   background-color: #ffe4c4 ;
    border-color: azure;
    margin-top: 10px;
 }
@@ -19,11 +19,11 @@ body {
    text-align: left;
    border-radius: 20px;
    border-style: solid;
-   margin-left: left;
-   margin-right: 10px;
+   margin-left: auto;
+   margin-right: right;
    max-width: 40%;
    padding: 1px 1px 1px 8px;
-   background-color: rgb(134, 5, 5);
+   background-color:  #ffe4c4 ;
    border-color: azure;
    margin-top: 10px;
 }
@@ -34,6 +34,7 @@ body {
    margin-left: auto;
    margin-right: auto;
    max-width: 40%;
-   background-color: rgb(134, 5, 5);
-   border-color: azure;
+   background-color:#ffe4c4 ;
+   border-color:rgb(97, 95, 95);
 }
+
