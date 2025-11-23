@@ -12,7 +12,7 @@ body {
    max-width: 40%;
    padding: 1px 1px 1px 8px;
    background-color: #ffe4c4 ;
-   border-color: azure;
+   border-color: rgb(97, 95, 95);
    margin-top: 10px;
 }
 .paragraf2, .paragraf4 {
@@ -24,7 +24,7 @@ body {
    max-width: 40%;
    padding: 1px 1px 1px 8px;
    background-color:  #ffe4c4 ;
-   border-color: azure;
+   border-color: rgb(97, 95, 95);
    margin-top: 10px;
 }
 .titel {
