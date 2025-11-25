@@ -2,7 +2,33 @@ body {
    background-color:  rgb(134, 5, 5);
    color: rgb(134, 5, 5);
    font-family: 'Times New Roman', Times, serif;
+   transition: 0.3ms;
 }
+
+body.dark{
+   background-color: rgb(67, 64, 64);
+   color:  rgb(67, 64, 64);
+}
+ button {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    margin: 20px;
+    background-color: #ffe4c4 ;
+    color: rgb(134, 5, 5);
+    
+  }
+  button:hover {
+   background-color: #555;
+   color: #f3ecec;
+  }
+button.dark  {
+   background-color: darkblue; 
+   color: white;             
+   border-color: #555; 
+  }
+
 .paragraf1, .paragraf3, .källa {
    text-align: left;
    border-radius: 20px;
@@ -37,4 +63,50 @@ body {
    background-color:#ffe4c4 ;
    border-color:rgb(97, 95, 95);
 }
+body.dark .paragraf1,
+body.dark .paragraf3,
+body.dark .källa {
+    background-color: darkblue; 
+    color: white;              
+    border-color: #555;        
+}
+body.dark .paragraf2,
+body.dark .paragraf4
+ {
+    background-color: darkblue; 
+    color: white;             
+    border-color: #555;   
+}    
+body.dark .titel
+ {
+    background-color: darkblue; 
+    color: white;              
+    border-color: #555;       
+}
 
+a {
+    color: blue; 
+  }
+  a:visited {
+    color: purple; 
+  }
+  a:hover {
+    color: green;
+  }
+  a:active {
+    color: orange;
+  }
+
+  
+  body.dark a {
+    color: lightblue; 
+  }
+  body.dark a:visited {
+    color: #dda0dd; 
+  }
+  body.dark a:hover {
+    color: yellow;
+  }
+  body.dark a:active {
+    color: orange;
+  }
