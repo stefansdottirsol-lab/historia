@@ -9,6 +9,7 @@ body.dark{
    background-color: rgb(67, 64, 64);
    color:  rgb(67, 64, 64);
 }
+
  button {
     padding: 10px 15px;
     cursor: pointer;
@@ -17,12 +18,13 @@ body.dark{
     margin: 20px;
     background-color: #ffe4c4 ;
     color: rgb(134, 5, 5);
-    
   }
+
   button:hover {
    background-color: #555;
    color: #f3ecec;
   }
+
 button.dark  {
    background-color: darkblue; 
    color: white;             
@@ -41,6 +43,7 @@ button.dark  {
    border-color: rgb(97, 95, 95);
    margin-top: 10px;
 }
+
 .paragraf2, .paragraf4 {
    text-align: left;
    border-radius: 20px;
@@ -53,6 +56,7 @@ button.dark  {
    border-color: rgb(97, 95, 95);
    margin-top: 10px;
 }
+
 .titel {
    text-align: center;
    border-radius: 20px;
@@ -63,23 +67,26 @@ button.dark  {
    background-color:#ffe4c4 ;
    border-color:rgb(97, 95, 95);
 }
+
 body.dark .paragraf1,
 body.dark .paragraf3,
 body.dark .källa {
-    background-color: darkblue; 
+    background-color: rgb(5, 5, 75); 
     color: white;              
     border-color: #555;        
 }
+
 body.dark .paragraf2,
 body.dark .paragraf4
  {
-    background-color: darkblue; 
+    background-color: rgb(5, 5, 75); 
     color: white;             
     border-color: #555;   
-}    
+}  
+
 body.dark .titel
  {
-    background-color: darkblue; 
+    background-color: rgb(5, 5, 75); 
     color: white;              
     border-color: #555;       
 }
@@ -96,7 +103,6 @@ a {
   a:active {
     color: orange;
   }
-
   
   body.dark a {
     color: lightblue; 
